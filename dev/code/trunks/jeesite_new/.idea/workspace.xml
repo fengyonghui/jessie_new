@@ -1,0 +1,1533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="jeesite:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2631cdab-07ea-462f-a616-1982a771b9d9" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/thinkgem/jeesite/common/utils/UserAgentUtils.java" afterPath="$PROJECT_DIR$/src/main/java/com/thinkgem/jeesite/common/utils/UserAgentUtils.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/jeesite.properties" afterPath="$PROJECT_DIR$/src/main/resources/jeesite.properties" />
+    </list>
+    <ignored path="jeesite.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="jeesite" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="jeesite_mysql.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/jeesite_mysql.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="48" lean-forward="false" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+              <folding>
+                <marker date="1467943902000" expanded="true" signature="0:26" ph="/*!40101 SET... " />
+                <marker date="1467943902000" expanded="true" signature="29:55" ph="/*!40101 SET... " />
+                <marker date="1467943902000" expanded="true" signature="58:125" ph="/*!40014 SET... " />
+                <marker date="1467943902000" expanded="true" signature="127:209" ph="/*!40014 SET... " />
+                <marker date="1467943902000" expanded="true" signature="211:285" ph="/*!40101 SET... " />
+                <marker date="1467943902000" expanded="true" signature="287:342" ph="/*!40111 SET... " />
+                <marker date="1467943902000" expanded="true" signature="360:384" ph="/*!32312 IF " />
+                <marker date="1467943902000" expanded="true" signature="394:449" ph="/*!40100 DEF... " />
+                <marker date="1467943902000" expanded="true" signature="468:517" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="519:558" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="561:1090" ph="CREATE TABLE... ACT_GE_BYTEARRAY" />
+                <marker date="1467943902000" expanded="true" signature="1093:1135" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="1137:1185" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="1187:1225" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="1228:1484" ph="CREATE TABLE... ACT_GE_PROPERTY" />
+                <marker date="1467943902000" expanded="true" signature="1487:1528" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="1530:1680" ph="insert into ACT_GE_PROPERTY" />
+                <marker date="1467943902000" expanded="true" signature="1683:1733" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="1735:1775" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="1778:2423" ph="CREATE TABLE... ACT_HI_ATTACHMENT" />
+                <marker date="1467943902000" expanded="true" signature="2426:2469" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="2471:2518" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="2520:2557" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="2560:3109" ph="CREATE TABLE... ACT_HI_COMMENT" />
+                <marker date="1467943902000" expanded="true" signature="3112:3152" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="3154:3202" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="3204:3242" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="3245:4396" ph="CREATE TABLE... ACT_HI_TASKINST" />
+                <marker date="1467943902000" expanded="true" signature="4399:4440" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="4442:4487" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="4489:4524" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="4527:4829" ph="CREATE TABLE... ACT_ID_GROUP" />
+                <marker date="1467943902000" expanded="true" signature="4832:4870" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="4872:4916" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="4918:4952" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="4955:5448" ph="CREATE TABLE... ACT_ID_INFO" />
+                <marker date="1467943902000" expanded="true" signature="5451:5488" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="5490:5540" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="5542:5582" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="5585:6065" ph="CREATE TABLE... ACT_ID_MEMBERSHIP" />
+                <marker date="1467943902000" expanded="true" signature="6068:6111" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="6113:6157" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="6159:6193" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="6196:6665" ph="CREATE TABLE... ACT_ID_USER" />
+                <marker date="1467943902000" expanded="true" signature="6668:6705" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="6707:6757" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="6759:6799" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="6802:7230" ph="CREATE TABLE... ACT_RE_DEPLOYMENT" />
+                <marker date="1467943902000" expanded="true" signature="7233:7276" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="7278:7323" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="7325:7360" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="7363:8698" ph="CREATE TABLE... ACT_RE_MODEL" />
+                <marker date="1467943902000" expanded="true" signature="8701:8739" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="8741:8788" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="8790:8827" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="8830:9680" ph="CREATE TABLE... ACT_RE_PROCDEF" />
+                <marker date="1467943902000" expanded="true" signature="9683:9723" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="9725:9777" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="9779:9821" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="9824:10755" ph="CREATE TABLE... ACT_RU_EVENT_SUBSCR" />
+                <marker date="1467943902000" expanded="true" signature="10758:10803" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="10805:10854" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="10856:10895" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="10898:12426" ph="CREATE TABLE... ACT_RU_EXECUTION" />
+                <marker date="1467943902000" expanded="true" signature="12429:12471" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="12473:12525" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="12527:12569" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="12572:13648" ph="CREATE TABLE... ACT_RU_IDENTITYLINK" />
+                <marker date="1467943902000" expanded="true" signature="13651:13696" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="13698:13741" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="13743:13776" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="13779:14957" ph="CREATE TABLE... ACT_RU_JOB" />
+                <marker date="1467943902000" expanded="true" signature="14960:14996" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="14998:15042" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="15044:15078" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="15081:16681" ph="CREATE TABLE... ACT_RU_TASK" />
+                <marker date="1467943902000" expanded="true" signature="16684:16721" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="16723:16771" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="16773:16811" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="16814:18010" ph="CREATE TABLE... ACT_RU_VARIABLE" />
+                <marker date="1467943902000" expanded="true" signature="18013:18054" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="18056:18103" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="18105:18142" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="18145:19207" ph="CREATE TABLE... act_hi_actinst" />
+                <marker date="1467943902000" expanded="true" signature="19210:19250" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="19252:19298" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="19300:19336" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="19339:20428" ph="CREATE TABLE... act_hi_detail" />
+                <marker date="1467943902000" expanded="true" signature="20431:20470" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="20472:20524" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="20526:20568" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="20571:21180" ph="CREATE TABLE... act_hi_identitylink" />
+                <marker date="1467943902000" expanded="true" signature="21183:21228" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="21230:21278" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="21280:21318" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="21321:22288" ph="CREATE TABLE... act_hi_procinst" />
+                <marker date="1467943902000" expanded="true" signature="22291:22332" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="22334:22381" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="22383:22420" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="22423:23336" ph="CREATE TABLE... act_hi_varinst" />
+                <marker date="1467943902000" expanded="true" signature="23339:23379" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="23381:23425" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="23427:23461" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="23464:25185" ph="CREATE TABLE... cms_article" />
+                <marker date="1467943902000" expanded="true" signature="25188:25225" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="25227:32983" ph="insert into cms_article" />
+                <marker date="1467943902000" expanded="true" signature="32986:33035" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="33037:33076" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="33079:33529" ph="CREATE TABLE... cms_article_data" />
+                <marker date="1467943902000" expanded="true" signature="33532:33574" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="33576:35620" ph="insert into cms_article_data" />
+                <marker date="1467943902000" expanded="true" signature="35623:35668" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="35670:35705" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="35708:37955" ph="CREATE TABLE... cms_category" />
+                <marker date="1467943902000" expanded="true" signature="37958:37996" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="37998:42899" ph="insert into cms_category" />
+                <marker date="1467943902000" expanded="true" signature="42902:42946" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="42948:42982" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="42985:43970" ph="CREATE TABLE... cms_comment" />
+                <marker date="1467943902000" expanded="true" signature="43973:44010" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="44012:44058" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="44060:44096" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="44099:45083" ph="CREATE TABLE... cms_guestbook" />
+                <marker date="1467943902000" expanded="true" signature="45086:45125" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="45127:45168" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="45170:45201" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="45204:46463" ph="CREATE TABLE... cms_link" />
+                <marker date="1467943902000" expanded="true" signature="46466:46500" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="46502:48135" ph="insert into cms_link" />
+                <marker date="1467943902000" expanded="true" signature="48138:48179" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="48181:48212" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="48215:49447" ph="CREATE TABLE... cms_site" />
+                <marker date="1467943902000" expanded="true" signature="49450:49484" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="49486:50362" ph="insert into cms_site" />
+                <marker date="1467943902000" expanded="true" signature="50365:50408" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="50410:50443" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="50446:51765" ph="CREATE TABLE... gen_scheme" />
+                <marker date="1467943902000" expanded="true" signature="51768:51804" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="51806:52703" ph="insert into gen_scheme" />
+                <marker date="1467943902000" expanded="true" signature="52706:52748" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="52750:52782" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="52785:53808" ph="CREATE TABLE... gen_table" />
+                <marker date="1467943902000" expanded="true" signature="53811:53846" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="53848:54625" ph="insert into gen_table" />
+                <marker date="1467943902000" expanded="true" signature="54628:54677" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="54679:54718" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="54721:56778" ph="CREATE TABLE... gen_table_column" />
+                <marker date="1467943902000" expanded="true" signature="56781:56823" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="56825:68874" ph="insert into gen_table_column" />
+                <marker date="1467943902000" expanded="true" signature="68877:68922" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="68924:68959" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="68962:69926" ph="CREATE TABLE... gen_template" />
+                <marker date="1467943902000" expanded="true" signature="69929:69967" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="69969:70010" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="70012:70043" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="70046:71253" ph="CREATE TABLE... oa_leave" />
+                <marker date="1467943902000" expanded="true" signature="71256:71290" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="71292:71334" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="71336:71368" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="71371:72296" ph="CREATE TABLE... oa_notify" />
+                <marker date="1467943902000" expanded="true" signature="72299:72334" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="72336:72385" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="72387:72426" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="72429:73025" ph="CREATE TABLE... oa_notify_record" />
+                <marker date="1467943902000" expanded="true" signature="73028:73070" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="73072:73118" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="73120:73156" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="73159:75061" ph="CREATE TABLE... oa_test_audit" />
+                <marker date="1467943902000" expanded="true" signature="75064:75103" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="75105:75146" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="75148:75179" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="75182:76197" ph="CREATE TABLE... sys_area" />
+                <marker date="1467943902000" expanded="true" signature="76200:76234" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="76236:77021" ph="insert into sys_area" />
+                <marker date="1467943902000" expanded="true" signature="77024:77065" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="77067:77098" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="77101:78142" ph="CREATE TABLE... sys_dict" />
+                <marker date="1467943902000" expanded="true" signature="78145:78179" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="78181:91014" ph="insert into sys_dict" />
+                <marker date="1467943902000" expanded="true" signature="91017:91057" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="91059:91089" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="91092:92079" ph="CREATE TABLE... sys_log" />
+                <marker date="1467943902000" expanded="true" signature="92082:92115" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="92117:92159" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="92161:92193" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="92196:93158" ph="CREATE TABLE... sys_mdict" />
+                <marker date="1467943902000" expanded="true" signature="93161:93196" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="93198:93239" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="93241:93272" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="93275:94499" ph="CREATE TABLE... sys_menu" />
+                <marker date="1467943902000" expanded="true" signature="94502:94536" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="94538:108827" ph="insert into sys_menu" />
+                <marker date="1467943902000" expanded="true" signature="108830:108873" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="108875:108908" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="108911:110722" ph="CREATE TABLE... sys_office" />
+                <marker date="1467943902000" expanded="true" signature="110725:110761" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="110763:115164" ph="insert into sys_office" />
+                <marker date="1467943902000" expanded="true" signature="115167:115208" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="115210:115241" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="115244:116362" ph="CREATE TABLE... sys_role" />
+                <marker date="1467943902000" expanded="true" signature="116365:116399" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="116401:117351" ph="insert into sys_role" />
+                <marker date="1467943902000" expanded="true" signature="117354:117400" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="117402:117438" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="117441:117709" ph="CREATE TABLE... sys_role_menu" />
+                <marker date="1467943902000" expanded="true" signature="117712:117751" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="117753:120752" ph="insert into sys_role_menu" />
+                <marker date="1467943902000" expanded="true" signature="120755:120803" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="120805:120843" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="120846:121120" ph="CREATE TABLE... sys_role_office" />
+                <marker date="1467943902000" expanded="true" signature="121123:121164" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="121166:121443" ph="insert into sys_role_office" />
+                <marker date="1467943902000" expanded="true" signature="121446:121487" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="121489:121520" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="121523:123233" ph="CREATE TABLE... sys_user" />
+                <marker date="1467943902000" expanded="true" signature="123236:123270" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="123272:126122" ph="insert into sys_user" />
+                <marker date="1467943902000" expanded="true" signature="126125:126171" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="126173:126209" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="126212:126480" ph="CREATE TABLE... sys_user_role" />
+                <marker date="1467943902000" expanded="true" signature="126483:126522" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="126524:126745" ph="insert into sys_user_role" />
+                <marker date="1467943902000" expanded="true" signature="126748:126790" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="126792:126824" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="126827:127808" ph="CREATE TABLE... test_data" />
+                <marker date="1467943902000" expanded="true" signature="127811:127846" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="127848:127896" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="127898:127936" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="127939:128697" ph="CREATE TABLE... test_data_child" />
+                <marker date="1467943902000" expanded="true" signature="128700:128741" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="128743:128790" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="128792:128829" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="128832:129823" ph="CREATE TABLE... test_data_main" />
+                <marker date="1467943902000" expanded="true" signature="129826:129866" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="129868:129910" ph="/*Table stru... " />
+                <marker date="1467943902000" expanded="true" signature="129912:129944" ph="DROP TABLE I... " />
+                <marker date="1467943902000" expanded="true" signature="129947:130835" ph="CREATE TABLE... test_tree" />
+                <marker date="1467943902000" expanded="true" signature="130838:130873" ph="/*Data for t... " />
+                <marker date="1467943902000" expanded="true" signature="130875:130913" ph="/*!40101 SET... " />
+                <marker date="1467943902000" expanded="true" signature="130915:130973" ph="/*!40014 SET... " />
+                <marker date="1467943902000" expanded="true" signature="130975:131023" ph="/*!40014 SET... " />
+                <marker date="1467943902000" expanded="true" signature="131025:131065" ph="/*!40111 SET... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jeesite.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/jeesite.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="152">
+                <caret line="109" column="23" lean-forward="false" selection-start-line="109" selection-start-column="15" selection-end-line="109" selection-end-column="23" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitattributes" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitattributes">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="proguard.cfg" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/proguard.cfg">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-355">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>orac</find>
+      <find>useragentutils</find>
+      <find>ojdbc14</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/db/init-db.bat" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/jeesite.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="JeeSite" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="JeeSite" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="JeeSite" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="jeesite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jeesite_new" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.65172416" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/SQL Dialects" value="MySQL" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Unnamed">
+    <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.0.M6" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="jeesite:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_jeesite" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="65245" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.0.M6" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="jeesite:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_jeesite" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="65245" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="jeesite:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="init-db" type="BatchConfigurationType" factoryName="Batch" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/db" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <module name="jeesite" />
+      <option name="SCRIPT_NAME" value="init-db.bat" />
+      <option name="PARAMETERS" value="" />
+    </configuration>
+    <configuration name="jeesite [package]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+              </list>
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Unnamed" />
+      <item index="1" class="java.lang.String" itemvalue="Batch.init-db" />
+      <item index="2" class="java.lang.String" itemvalue="Maven.jeesite [package]" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Maven.jeesite [package]" />
+        <item index="1" class="java.lang.String" itemvalue="Batch.init-db" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2631cdab-07ea-462f-a616-1982a771b9d9" name="Default" comment="" />
+      <created>1467943925040</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1467943925040</updated>
+      <workItem from="1467943929668" duration="599000" />
+      <workItem from="1508293917775" duration="885000" />
+      <workItem from="1508294880667" duration="6877000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8361000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <layout>
+      <window_info id="SVN Repositories" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.47333333" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48133335" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0171875" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933334" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.53466666" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24296875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="jeesite updated bt YH" />
+    <option name="LAST_COMMIT_MESSAGE" value="jeesite updated bt YH" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/db/jeesite_mysql.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1467943902000" expanded="true" signature="0:26" ph="/*!40101 SET... " />
+            <marker date="1467943902000" expanded="true" signature="29:55" ph="/*!40101 SET... " />
+            <marker date="1467943902000" expanded="true" signature="58:125" ph="/*!40014 SET... " />
+            <marker date="1467943902000" expanded="true" signature="127:209" ph="/*!40014 SET... " />
+            <marker date="1467943902000" expanded="true" signature="211:285" ph="/*!40101 SET... " />
+            <marker date="1467943902000" expanded="true" signature="287:342" ph="/*!40111 SET... " />
+            <marker date="1467943902000" expanded="true" signature="360:384" ph="/*!32312 IF " />
+            <marker date="1467943902000" expanded="true" signature="394:449" ph="/*!40100 DEF... " />
+            <marker date="1467943902000" expanded="true" signature="468:517" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="519:558" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="561:1090" ph="CREATE TABLE... ACT_GE_BYTEARRAY" />
+            <marker date="1467943902000" expanded="true" signature="1093:1135" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="1137:1185" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="1187:1225" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="1228:1484" ph="CREATE TABLE... ACT_GE_PROPERTY" />
+            <marker date="1467943902000" expanded="true" signature="1487:1528" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="1530:1680" ph="insert into ACT_GE_PROPERTY" />
+            <marker date="1467943902000" expanded="true" signature="1683:1733" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="1735:1775" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="1778:2423" ph="CREATE TABLE... ACT_HI_ATTACHMENT" />
+            <marker date="1467943902000" expanded="true" signature="2426:2469" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="2471:2518" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="2520:2557" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="2560:3109" ph="CREATE TABLE... ACT_HI_COMMENT" />
+            <marker date="1467943902000" expanded="true" signature="3112:3152" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="3154:3202" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="3204:3242" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="3245:4396" ph="CREATE TABLE... ACT_HI_TASKINST" />
+            <marker date="1467943902000" expanded="true" signature="4399:4440" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="4442:4487" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="4489:4524" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="4527:4829" ph="CREATE TABLE... ACT_ID_GROUP" />
+            <marker date="1467943902000" expanded="true" signature="4832:4870" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="4872:4916" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="4918:4952" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="4955:5448" ph="CREATE TABLE... ACT_ID_INFO" />
+            <marker date="1467943902000" expanded="true" signature="5451:5488" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="5490:5540" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="5542:5582" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="5585:6065" ph="CREATE TABLE... ACT_ID_MEMBERSHIP" />
+            <marker date="1467943902000" expanded="true" signature="6068:6111" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="6113:6157" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="6159:6193" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="6196:6665" ph="CREATE TABLE... ACT_ID_USER" />
+            <marker date="1467943902000" expanded="true" signature="6668:6705" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="6707:6757" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="6759:6799" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="6802:7230" ph="CREATE TABLE... ACT_RE_DEPLOYMENT" />
+            <marker date="1467943902000" expanded="true" signature="7233:7276" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="7278:7323" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="7325:7360" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="7363:8698" ph="CREATE TABLE... ACT_RE_MODEL" />
+            <marker date="1467943902000" expanded="true" signature="8701:8739" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="8741:8788" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="8790:8827" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="8830:9680" ph="CREATE TABLE... ACT_RE_PROCDEF" />
+            <marker date="1467943902000" expanded="true" signature="9683:9723" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="9725:9777" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="9779:9821" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="9824:10755" ph="CREATE TABLE... ACT_RU_EVENT_SUBSCR" />
+            <marker date="1467943902000" expanded="true" signature="10758:10803" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="10805:10854" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="10856:10895" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="10898:12426" ph="CREATE TABLE... ACT_RU_EXECUTION" />
+            <marker date="1467943902000" expanded="true" signature="12429:12471" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="12473:12525" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="12527:12569" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="12572:13648" ph="CREATE TABLE... ACT_RU_IDENTITYLINK" />
+            <marker date="1467943902000" expanded="true" signature="13651:13696" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="13698:13741" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="13743:13776" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="13779:14957" ph="CREATE TABLE... ACT_RU_JOB" />
+            <marker date="1467943902000" expanded="true" signature="14960:14996" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="14998:15042" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="15044:15078" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="15081:16681" ph="CREATE TABLE... ACT_RU_TASK" />
+            <marker date="1467943902000" expanded="true" signature="16684:16721" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="16723:16771" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="16773:16811" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="16814:18010" ph="CREATE TABLE... ACT_RU_VARIABLE" />
+            <marker date="1467943902000" expanded="true" signature="18013:18054" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="18056:18103" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="18105:18142" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="18145:19207" ph="CREATE TABLE... act_hi_actinst" />
+            <marker date="1467943902000" expanded="true" signature="19210:19250" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="19252:19298" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="19300:19336" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="19339:20428" ph="CREATE TABLE... act_hi_detail" />
+            <marker date="1467943902000" expanded="true" signature="20431:20470" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="20472:20524" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="20526:20568" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="20571:21180" ph="CREATE TABLE... act_hi_identitylink" />
+            <marker date="1467943902000" expanded="true" signature="21183:21228" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="21230:21278" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="21280:21318" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="21321:22288" ph="CREATE TABLE... act_hi_procinst" />
+            <marker date="1467943902000" expanded="true" signature="22291:22332" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="22334:22381" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="22383:22420" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="22423:23336" ph="CREATE TABLE... act_hi_varinst" />
+            <marker date="1467943902000" expanded="true" signature="23339:23379" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="23381:23425" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="23427:23461" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="23464:25185" ph="CREATE TABLE... cms_article" />
+            <marker date="1467943902000" expanded="true" signature="25188:25225" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="25227:32983" ph="insert into cms_article" />
+            <marker date="1467943902000" expanded="true" signature="32986:33035" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="33037:33076" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="33079:33529" ph="CREATE TABLE... cms_article_data" />
+            <marker date="1467943902000" expanded="true" signature="33532:33574" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="33576:35620" ph="insert into cms_article_data" />
+            <marker date="1467943902000" expanded="true" signature="35623:35668" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="35670:35705" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="35708:37955" ph="CREATE TABLE... cms_category" />
+            <marker date="1467943902000" expanded="true" signature="37958:37996" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="37998:42899" ph="insert into cms_category" />
+            <marker date="1467943902000" expanded="true" signature="42902:42946" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="42948:42982" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="42985:43970" ph="CREATE TABLE... cms_comment" />
+            <marker date="1467943902000" expanded="true" signature="43973:44010" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="44012:44058" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="44060:44096" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="44099:45083" ph="CREATE TABLE... cms_guestbook" />
+            <marker date="1467943902000" expanded="true" signature="45086:45125" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="45127:45168" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="45170:45201" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="45204:46463" ph="CREATE TABLE... cms_link" />
+            <marker date="1467943902000" expanded="true" signature="46466:46500" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="46502:48135" ph="insert into cms_link" />
+            <marker date="1467943902000" expanded="true" signature="48138:48179" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="48181:48212" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="48215:49447" ph="CREATE TABLE... cms_site" />
+            <marker date="1467943902000" expanded="true" signature="49450:49484" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="49486:50362" ph="insert into cms_site" />
+            <marker date="1467943902000" expanded="true" signature="50365:50408" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="50410:50443" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="50446:51765" ph="CREATE TABLE... gen_scheme" />
+            <marker date="1467943902000" expanded="true" signature="51768:51804" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="51806:52703" ph="insert into gen_scheme" />
+            <marker date="1467943902000" expanded="true" signature="52706:52748" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="52750:52782" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="52785:53808" ph="CREATE TABLE... gen_table" />
+            <marker date="1467943902000" expanded="true" signature="53811:53846" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="53848:54625" ph="insert into gen_table" />
+            <marker date="1467943902000" expanded="true" signature="54628:54677" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="54679:54718" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="54721:56778" ph="CREATE TABLE... gen_table_column" />
+            <marker date="1467943902000" expanded="true" signature="56781:56823" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="56825:68874" ph="insert into gen_table_column" />
+            <marker date="1467943902000" expanded="true" signature="68877:68922" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="68924:68959" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="68962:69926" ph="CREATE TABLE... gen_template" />
+            <marker date="1467943902000" expanded="true" signature="69929:69967" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="69969:70010" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="70012:70043" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="70046:71253" ph="CREATE TABLE... oa_leave" />
+            <marker date="1467943902000" expanded="true" signature="71256:71290" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="71292:71334" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="71336:71368" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="71371:72296" ph="CREATE TABLE... oa_notify" />
+            <marker date="1467943902000" expanded="true" signature="72299:72334" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="72336:72385" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="72387:72426" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="72429:73025" ph="CREATE TABLE... oa_notify_record" />
+            <marker date="1467943902000" expanded="true" signature="73028:73070" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="73072:73118" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="73120:73156" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="73159:75061" ph="CREATE TABLE... oa_test_audit" />
+            <marker date="1467943902000" expanded="true" signature="75064:75103" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="75105:75146" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="75148:75179" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="75182:76197" ph="CREATE TABLE... sys_area" />
+            <marker date="1467943902000" expanded="true" signature="76200:76234" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="76236:77021" ph="insert into sys_area" />
+            <marker date="1467943902000" expanded="true" signature="77024:77065" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="77067:77098" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="77101:78142" ph="CREATE TABLE... sys_dict" />
+            <marker date="1467943902000" expanded="true" signature="78145:78179" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="78181:91014" ph="insert into sys_dict" />
+            <marker date="1467943902000" expanded="true" signature="91017:91057" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="91059:91089" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="91092:92079" ph="CREATE TABLE... sys_log" />
+            <marker date="1467943902000" expanded="true" signature="92082:92115" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="92117:92159" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="92161:92193" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="92196:93158" ph="CREATE TABLE... sys_mdict" />
+            <marker date="1467943902000" expanded="true" signature="93161:93196" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="93198:93239" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="93241:93272" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="93275:94499" ph="CREATE TABLE... sys_menu" />
+            <marker date="1467943902000" expanded="true" signature="94502:94536" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="94538:108827" ph="insert into sys_menu" />
+            <marker date="1467943902000" expanded="true" signature="108830:108873" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="108875:108908" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="108911:110722" ph="CREATE TABLE... sys_office" />
+            <marker date="1467943902000" expanded="true" signature="110725:110761" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="110763:115164" ph="insert into sys_office" />
+            <marker date="1467943902000" expanded="true" signature="115167:115208" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="115210:115241" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="115244:116362" ph="CREATE TABLE... sys_role" />
+            <marker date="1467943902000" expanded="true" signature="116365:116399" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="116401:117351" ph="insert into sys_role" />
+            <marker date="1467943902000" expanded="true" signature="117354:117400" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="117402:117438" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="117441:117709" ph="CREATE TABLE... sys_role_menu" />
+            <marker date="1467943902000" expanded="true" signature="117712:117751" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="117753:120752" ph="insert into sys_role_menu" />
+            <marker date="1467943902000" expanded="true" signature="120755:120803" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="120805:120843" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="120846:121120" ph="CREATE TABLE... sys_role_office" />
+            <marker date="1467943902000" expanded="true" signature="121123:121164" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="121166:121443" ph="insert into sys_role_office" />
+            <marker date="1467943902000" expanded="true" signature="121446:121487" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="121489:121520" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="121523:123233" ph="CREATE TABLE... sys_user" />
+            <marker date="1467943902000" expanded="true" signature="123236:123270" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="123272:126122" ph="insert into sys_user" />
+            <marker date="1467943902000" expanded="true" signature="126125:126171" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="126173:126209" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="126212:126480" ph="CREATE TABLE... sys_user_role" />
+            <marker date="1467943902000" expanded="true" signature="126483:126522" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="126524:126745" ph="insert into sys_user_role" />
+            <marker date="1467943902000" expanded="true" signature="126748:126790" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="126792:126824" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="126827:127808" ph="CREATE TABLE... test_data" />
+            <marker date="1467943902000" expanded="true" signature="127811:127846" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="127848:127896" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="127898:127936" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="127939:128697" ph="CREATE TABLE... test_data_child" />
+            <marker date="1467943902000" expanded="true" signature="128700:128741" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="128743:128790" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="128792:128829" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="128832:129823" ph="CREATE TABLE... test_data_main" />
+            <marker date="1467943902000" expanded="true" signature="129826:129866" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="129868:129910" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="129912:129944" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="129947:130835" ph="CREATE TABLE... test_tree" />
+            <marker date="1467943902000" expanded="true" signature="130838:130873" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="130875:130913" ph="/*!40101 SET... " />
+            <marker date="1467943902000" expanded="true" signature="130915:130973" ph="/*!40014 SET... " />
+            <marker date="1467943902000" expanded="true" signature="130975:131023" ph="/*!40014 SET... " />
+            <marker date="1467943902000" expanded="true" signature="131025:131065" ph="/*!40111 SET... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/init-db.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/init-db.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="5" lean-forward="false" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/gen/jeesite_mysql.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1467943902000" expanded="true" signature="35:51" ph="/* Drop Tabl... " />
+            <marker date="1467943902000" expanded="true" signature="53:84" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="86:123" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="125:155" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="157:190" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="197:216" ph="/* Create Ta... " />
+            <marker date="1467943902000" expanded="true" signature="218:972" ph="CREATE TABLE... gen_scheme" />
+            <marker date="1467943902000" expanded="true" signature="976:1534" ph="CREATE TABLE... gen_table" />
+            <marker date="1467943902000" expanded="true" signature="1538:2639" ph="CREATE TABLE... gen_table_column" />
+            <marker date="1467943902000" expanded="true" signature="2643:3185" ph="CREATE TABLE... gen_template" />
+            <marker date="1467943902000" expanded="true" signature="3190:3210" ph="/* Create In... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a93f0648-87a1-4a31-bba2-001f6eac87ed/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.m2/settings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="30" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/thinkgem/jeesite/common/utils/UserAgentUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="5" column="8" lean-forward="false" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="199" column="25" lean-forward="false" selection-start-line="194" selection-start-column="12" selection-end-line="199" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/act/create/activiti.mysql55.create.engine.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/jeesite_mysql.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="48" lean-forward="false" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+          <folding>
+            <marker date="1467943902000" expanded="true" signature="0:26" ph="/*!40101 SET... " />
+            <marker date="1467943902000" expanded="true" signature="29:55" ph="/*!40101 SET... " />
+            <marker date="1467943902000" expanded="true" signature="58:125" ph="/*!40014 SET... " />
+            <marker date="1467943902000" expanded="true" signature="127:209" ph="/*!40014 SET... " />
+            <marker date="1467943902000" expanded="true" signature="211:285" ph="/*!40101 SET... " />
+            <marker date="1467943902000" expanded="true" signature="287:342" ph="/*!40111 SET... " />
+            <marker date="1467943902000" expanded="true" signature="360:384" ph="/*!32312 IF " />
+            <marker date="1467943902000" expanded="true" signature="394:449" ph="/*!40100 DEF... " />
+            <marker date="1467943902000" expanded="true" signature="468:517" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="519:558" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="561:1090" ph="CREATE TABLE... ACT_GE_BYTEARRAY" />
+            <marker date="1467943902000" expanded="true" signature="1093:1135" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="1137:1185" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="1187:1225" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="1228:1484" ph="CREATE TABLE... ACT_GE_PROPERTY" />
+            <marker date="1467943902000" expanded="true" signature="1487:1528" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="1530:1680" ph="insert into ACT_GE_PROPERTY" />
+            <marker date="1467943902000" expanded="true" signature="1683:1733" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="1735:1775" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="1778:2423" ph="CREATE TABLE... ACT_HI_ATTACHMENT" />
+            <marker date="1467943902000" expanded="true" signature="2426:2469" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="2471:2518" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="2520:2557" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="2560:3109" ph="CREATE TABLE... ACT_HI_COMMENT" />
+            <marker date="1467943902000" expanded="true" signature="3112:3152" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="3154:3202" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="3204:3242" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="3245:4396" ph="CREATE TABLE... ACT_HI_TASKINST" />
+            <marker date="1467943902000" expanded="true" signature="4399:4440" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="4442:4487" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="4489:4524" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="4527:4829" ph="CREATE TABLE... ACT_ID_GROUP" />
+            <marker date="1467943902000" expanded="true" signature="4832:4870" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="4872:4916" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="4918:4952" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="4955:5448" ph="CREATE TABLE... ACT_ID_INFO" />
+            <marker date="1467943902000" expanded="true" signature="5451:5488" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="5490:5540" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="5542:5582" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="5585:6065" ph="CREATE TABLE... ACT_ID_MEMBERSHIP" />
+            <marker date="1467943902000" expanded="true" signature="6068:6111" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="6113:6157" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="6159:6193" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="6196:6665" ph="CREATE TABLE... ACT_ID_USER" />
+            <marker date="1467943902000" expanded="true" signature="6668:6705" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="6707:6757" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="6759:6799" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="6802:7230" ph="CREATE TABLE... ACT_RE_DEPLOYMENT" />
+            <marker date="1467943902000" expanded="true" signature="7233:7276" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="7278:7323" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="7325:7360" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="7363:8698" ph="CREATE TABLE... ACT_RE_MODEL" />
+            <marker date="1467943902000" expanded="true" signature="8701:8739" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="8741:8788" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="8790:8827" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="8830:9680" ph="CREATE TABLE... ACT_RE_PROCDEF" />
+            <marker date="1467943902000" expanded="true" signature="9683:9723" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="9725:9777" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="9779:9821" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="9824:10755" ph="CREATE TABLE... ACT_RU_EVENT_SUBSCR" />
+            <marker date="1467943902000" expanded="true" signature="10758:10803" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="10805:10854" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="10856:10895" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="10898:12426" ph="CREATE TABLE... ACT_RU_EXECUTION" />
+            <marker date="1467943902000" expanded="true" signature="12429:12471" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="12473:12525" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="12527:12569" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="12572:13648" ph="CREATE TABLE... ACT_RU_IDENTITYLINK" />
+            <marker date="1467943902000" expanded="true" signature="13651:13696" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="13698:13741" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="13743:13776" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="13779:14957" ph="CREATE TABLE... ACT_RU_JOB" />
+            <marker date="1467943902000" expanded="true" signature="14960:14996" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="14998:15042" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="15044:15078" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="15081:16681" ph="CREATE TABLE... ACT_RU_TASK" />
+            <marker date="1467943902000" expanded="true" signature="16684:16721" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="16723:16771" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="16773:16811" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="16814:18010" ph="CREATE TABLE... ACT_RU_VARIABLE" />
+            <marker date="1467943902000" expanded="true" signature="18013:18054" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="18056:18103" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="18105:18142" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="18145:19207" ph="CREATE TABLE... act_hi_actinst" />
+            <marker date="1467943902000" expanded="true" signature="19210:19250" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="19252:19298" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="19300:19336" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="19339:20428" ph="CREATE TABLE... act_hi_detail" />
+            <marker date="1467943902000" expanded="true" signature="20431:20470" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="20472:20524" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="20526:20568" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="20571:21180" ph="CREATE TABLE... act_hi_identitylink" />
+            <marker date="1467943902000" expanded="true" signature="21183:21228" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="21230:21278" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="21280:21318" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="21321:22288" ph="CREATE TABLE... act_hi_procinst" />
+            <marker date="1467943902000" expanded="true" signature="22291:22332" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="22334:22381" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="22383:22420" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="22423:23336" ph="CREATE TABLE... act_hi_varinst" />
+            <marker date="1467943902000" expanded="true" signature="23339:23379" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="23381:23425" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="23427:23461" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="23464:25185" ph="CREATE TABLE... cms_article" />
+            <marker date="1467943902000" expanded="true" signature="25188:25225" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="25227:32983" ph="insert into cms_article" />
+            <marker date="1467943902000" expanded="true" signature="32986:33035" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="33037:33076" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="33079:33529" ph="CREATE TABLE... cms_article_data" />
+            <marker date="1467943902000" expanded="true" signature="33532:33574" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="33576:35620" ph="insert into cms_article_data" />
+            <marker date="1467943902000" expanded="true" signature="35623:35668" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="35670:35705" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="35708:37955" ph="CREATE TABLE... cms_category" />
+            <marker date="1467943902000" expanded="true" signature="37958:37996" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="37998:42899" ph="insert into cms_category" />
+            <marker date="1467943902000" expanded="true" signature="42902:42946" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="42948:42982" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="42985:43970" ph="CREATE TABLE... cms_comment" />
+            <marker date="1467943902000" expanded="true" signature="43973:44010" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="44012:44058" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="44060:44096" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="44099:45083" ph="CREATE TABLE... cms_guestbook" />
+            <marker date="1467943902000" expanded="true" signature="45086:45125" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="45127:45168" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="45170:45201" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="45204:46463" ph="CREATE TABLE... cms_link" />
+            <marker date="1467943902000" expanded="true" signature="46466:46500" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="46502:48135" ph="insert into cms_link" />
+            <marker date="1467943902000" expanded="true" signature="48138:48179" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="48181:48212" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="48215:49447" ph="CREATE TABLE... cms_site" />
+            <marker date="1467943902000" expanded="true" signature="49450:49484" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="49486:50362" ph="insert into cms_site" />
+            <marker date="1467943902000" expanded="true" signature="50365:50408" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="50410:50443" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="50446:51765" ph="CREATE TABLE... gen_scheme" />
+            <marker date="1467943902000" expanded="true" signature="51768:51804" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="51806:52703" ph="insert into gen_scheme" />
+            <marker date="1467943902000" expanded="true" signature="52706:52748" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="52750:52782" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="52785:53808" ph="CREATE TABLE... gen_table" />
+            <marker date="1467943902000" expanded="true" signature="53811:53846" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="53848:54625" ph="insert into gen_table" />
+            <marker date="1467943902000" expanded="true" signature="54628:54677" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="54679:54718" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="54721:56778" ph="CREATE TABLE... gen_table_column" />
+            <marker date="1467943902000" expanded="true" signature="56781:56823" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="56825:68874" ph="insert into gen_table_column" />
+            <marker date="1467943902000" expanded="true" signature="68877:68922" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="68924:68959" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="68962:69926" ph="CREATE TABLE... gen_template" />
+            <marker date="1467943902000" expanded="true" signature="69929:69967" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="69969:70010" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="70012:70043" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="70046:71253" ph="CREATE TABLE... oa_leave" />
+            <marker date="1467943902000" expanded="true" signature="71256:71290" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="71292:71334" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="71336:71368" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="71371:72296" ph="CREATE TABLE... oa_notify" />
+            <marker date="1467943902000" expanded="true" signature="72299:72334" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="72336:72385" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="72387:72426" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="72429:73025" ph="CREATE TABLE... oa_notify_record" />
+            <marker date="1467943902000" expanded="true" signature="73028:73070" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="73072:73118" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="73120:73156" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="73159:75061" ph="CREATE TABLE... oa_test_audit" />
+            <marker date="1467943902000" expanded="true" signature="75064:75103" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="75105:75146" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="75148:75179" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="75182:76197" ph="CREATE TABLE... sys_area" />
+            <marker date="1467943902000" expanded="true" signature="76200:76234" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="76236:77021" ph="insert into sys_area" />
+            <marker date="1467943902000" expanded="true" signature="77024:77065" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="77067:77098" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="77101:78142" ph="CREATE TABLE... sys_dict" />
+            <marker date="1467943902000" expanded="true" signature="78145:78179" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="78181:91014" ph="insert into sys_dict" />
+            <marker date="1467943902000" expanded="true" signature="91017:91057" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="91059:91089" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="91092:92079" ph="CREATE TABLE... sys_log" />
+            <marker date="1467943902000" expanded="true" signature="92082:92115" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="92117:92159" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="92161:92193" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="92196:93158" ph="CREATE TABLE... sys_mdict" />
+            <marker date="1467943902000" expanded="true" signature="93161:93196" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="93198:93239" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="93241:93272" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="93275:94499" ph="CREATE TABLE... sys_menu" />
+            <marker date="1467943902000" expanded="true" signature="94502:94536" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="94538:108827" ph="insert into sys_menu" />
+            <marker date="1467943902000" expanded="true" signature="108830:108873" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="108875:108908" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="108911:110722" ph="CREATE TABLE... sys_office" />
+            <marker date="1467943902000" expanded="true" signature="110725:110761" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="110763:115164" ph="insert into sys_office" />
+            <marker date="1467943902000" expanded="true" signature="115167:115208" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="115210:115241" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="115244:116362" ph="CREATE TABLE... sys_role" />
+            <marker date="1467943902000" expanded="true" signature="116365:116399" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="116401:117351" ph="insert into sys_role" />
+            <marker date="1467943902000" expanded="true" signature="117354:117400" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="117402:117438" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="117441:117709" ph="CREATE TABLE... sys_role_menu" />
+            <marker date="1467943902000" expanded="true" signature="117712:117751" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="117753:120752" ph="insert into sys_role_menu" />
+            <marker date="1467943902000" expanded="true" signature="120755:120803" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="120805:120843" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="120846:121120" ph="CREATE TABLE... sys_role_office" />
+            <marker date="1467943902000" expanded="true" signature="121123:121164" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="121166:121443" ph="insert into sys_role_office" />
+            <marker date="1467943902000" expanded="true" signature="121446:121487" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="121489:121520" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="121523:123233" ph="CREATE TABLE... sys_user" />
+            <marker date="1467943902000" expanded="true" signature="123236:123270" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="123272:126122" ph="insert into sys_user" />
+            <marker date="1467943902000" expanded="true" signature="126125:126171" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="126173:126209" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="126212:126480" ph="CREATE TABLE... sys_user_role" />
+            <marker date="1467943902000" expanded="true" signature="126483:126522" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="126524:126745" ph="insert into sys_user_role" />
+            <marker date="1467943902000" expanded="true" signature="126748:126790" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="126792:126824" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="126827:127808" ph="CREATE TABLE... test_data" />
+            <marker date="1467943902000" expanded="true" signature="127811:127846" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="127848:127896" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="127898:127936" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="127939:128697" ph="CREATE TABLE... test_data_child" />
+            <marker date="1467943902000" expanded="true" signature="128700:128741" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="128743:128790" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="128792:128829" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="128832:129823" ph="CREATE TABLE... test_data_main" />
+            <marker date="1467943902000" expanded="true" signature="129826:129866" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="129868:129910" ph="/*Table stru... " />
+            <marker date="1467943902000" expanded="true" signature="129912:129944" ph="DROP TABLE I... " />
+            <marker date="1467943902000" expanded="true" signature="129947:130835" ph="CREATE TABLE... test_tree" />
+            <marker date="1467943902000" expanded="true" signature="130838:130873" ph="/*Data for t... " />
+            <marker date="1467943902000" expanded="true" signature="130875:130913" ph="/*!40101 SET... " />
+            <marker date="1467943902000" expanded="true" signature="130915:130973" ph="/*!40014 SET... " />
+            <marker date="1467943902000" expanded="true" signature="130975:131023" ph="/*!40014 SET... " />
+            <marker date="1467943902000" expanded="true" signature="131025:131065" ph="/*!40111 SET... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/jeesite.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="152">
+            <caret line="109" column="23" lean-forward="false" selection-start-line="109" selection-start-column="15" selection-end-line="109" selection-end-column="23" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proguard.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-355">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>jeesite:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>jeesite</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.65172416" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.65172416" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,16 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://github.com/thinkgem/jeesite.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
+[remote "jeesite_new"]
+	url = https://github.com/fengyonghui/jessie_new.git
+	fetch = +refs/heads/*:refs/remotes/jeesite_new/*
